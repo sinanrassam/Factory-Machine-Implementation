@@ -1,7 +1,8 @@
 /*
-* To change this license header, choose License Headers in Project Properties.
-* To change this template file, choose Tools | Templates
-* and open the template in the editor.
+ * A class which shows a graph of a running collection of Machine objects along
+ * the x-axis and temperature along the y-axis. It shows guidelines showing safe
+ * operating temperatures between 50 - 200 degrees, overheated lines at 250
+ * degrees and overcooled at 0 degrees Celsius.
 */
 package FactoryControl;
 
